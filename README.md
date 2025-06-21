@@ -10,11 +10,11 @@ This portfolio contains what I consider to be my best work. It contains projects
 
 > Male
 
-I study Game Art in first year at University of Lancashire. I primarily work with Autodesk Maya, Adobe Photoshop and Libresprite. In my own time I enjoy games such as Sea of Thieves, Payday 2, Monkey Island and Terraria, and I do some light game development from time to time. I am a keen game artist and am always on the lookout for inspiration wherever I go. I have a particular fondness for british steam locomotives, especially those of the 2nd and 4th eras, and enjoy camping.
+I study Game Art in first year at University of Lancashire. I primarily work with Autodesk Maya, Adobe Photoshop and Libresprite. In my own time I enjoy games such as Sea of Thieves, Payday 2, Monkey Island and Terraria, and I do some light game development from time to time. I am a keen game artist and am always on the lookout for inspiration wherever I go. I have a particular fondness for british steam locomotives, I am play Soprano Cornet for a brass band, and enjoy camping.
 
 ## How this works
 
-Each project has it's own file, which will contain a readme. This file contains screenshots and a description of the project. Some files will contain the original project file but this may not always be the case.
+Each project has it's own file, which contains a readme. This file contains screenshots and a description of the project. Some files contain the original project file but this may not always be the case.
 
 ## Links
 
