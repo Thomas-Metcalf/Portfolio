@@ -20,6 +20,8 @@ Here are the links to my other social platforms, where more of my work can be fo
 
 [Instagram](https://www.instagram.com/thomasmetcalf.art/)
 
-## Disclaimer
+## Disclaimers
 
 A lot of my work is completed in education editions of Autodesk Maya, so I ask that my work is not taken, used or reproduced in any way as the licensing for this product does not allow for commercial use. This includes any work being used in AI models for training or otherwise.
+
+The copyright to all of this work belongs to me, and is not available for use unless explicitly stated otherwise. 
