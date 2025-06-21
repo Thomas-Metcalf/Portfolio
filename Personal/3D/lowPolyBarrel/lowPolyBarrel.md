@@ -1,6 +1,6 @@
 # Low Poly Barrel
 
-This was my first attempt at using Adobe Substance Painter before I use it properly in my 2nd year of university. The modelling process also involved a few new techiques to make the process faster and more efficient. 
+This was my first attempt at using Adobe Substance Painter before I use it properly in my 2nd year of university. The modelling process also involved a few new techiques to make the process faster and more efficient. It was made following a tutorial by Vertmode.
 
 ## Images
 
