@@ -26,4 +26,4 @@ Here are the links to my other social platforms, where more of my work can be fo
 
 ## Disclaimers
 
-The copyright to all of this work belongs to me, and is not available for use unless explicitly stated otherwise. This includes use for AI training and similar situations. In cases where references are created by others, the copyright belongs to them.
+The copyright to all of this work belongs to me, and is not available for use unless explicitly stated otherwise. This includes use for AI training and similar situations. In cases where references are created by others, the copyright for said references belongs to them.
