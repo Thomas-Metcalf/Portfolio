@@ -1,6 +1,6 @@
 # Shield
 
-This model was a way to try out normal/bump maps, and was my first time baking. I did this in Maya, as I hadn't yet used Substance Painter. 
+This model was a way to try out normal/bump maps, and was my first time baking. I did this in Maya & Photoshop, as I hadn't yet used Substance Painter. 
 
 ## Images
 
