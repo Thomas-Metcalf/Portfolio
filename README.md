@@ -14,8 +14,7 @@ I study Game Art in first year at University of Lancashire. I primarily work wit
 
 ## How this works
 
-Each project has it's own folder, which contains a .md file. This file contains screenshots and a description of the project. Some files contain the original project file but this may not always be the case.
-
+Each project has it's own folder, which contains a .md file. This file contains screenshots and a description of the project.
 ## Links
 
 Here are the links to my other social platforms, where more of my work can be found:
