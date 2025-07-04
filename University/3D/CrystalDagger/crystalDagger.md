@@ -1,6 +1,6 @@
 # Crystal Dagger
 
-This initially had a lot of mesh issues and taught me many ways to solve issues, which I have made use of on all my projects since. It was modelled from a reference image created by Alina Snit.
+This initially had a lot of mesh issues and taught me many ways to problem solve in Maya, which I have made use of on all my projects since. It was modelled from a reference image created by Alina Snit.
 
 1st Year Project.
 
